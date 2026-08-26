@@ -1,0 +1,21 @@
+[
+  {
+    "id": "proj_1786306053867_44vu",
+    "name": "BetaTesting",
+    "description": "",
+    "sector": "banking",
+    "ownerId": "nigamvivek",
+    "sharedWith": [],
+    "source": null,
+    "activeRuleIds": null,
+    "settings": {
+      "useAI": false,
+      "emailEnabled": false
+    },
+    "lastRunSummary": null,
+    "lineageState": null,
+    "validatorState": null,
+    "created_at": "2026-08-09T20:07:33.867Z",
+    "updated_at": "2026-08-09T20:07:33.867Z"
+  }
+]
